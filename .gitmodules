@@ -5,3 +5,6 @@
 [submodule "SBOAtools"]
 	path = SBOAtools
 	url = https://github.com/burakdilber/sboatools
+[submodule "metANN"]
+	path = metANN
+	url = https://github.com/burakdilber/metann
